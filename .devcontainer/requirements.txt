@@ -1,0 +1,7 @@
+wheel
+pandas
+numpy
+plotly
+jupyter
+ipywidgets
+nbconvert
